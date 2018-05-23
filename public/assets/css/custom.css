@@ -81,3 +81,8 @@ body{
    background-image: url("/images/pic02.png");
    background-position: center center;
  }
+
+
+ .inner{
+   margin:auto;
+ }
